@@ -9,13 +9,13 @@ TERM
 Program
 ----
 
-1.Take Input
+**0. Take Input**
 
 row size, col size, and image.
 
 ---
 
-1.Query1: RESIZE
+**1. Query1: RESIZE**
 
 * arg1 = 0: 2X Magnification
 
@@ -27,7 +27,7 @@ row size, col size, and image.
 
 ---
 
-1.Query2: ROTATE
+**2. Query2: ROTATE**
 
 * arg2 = 0: 90 degree
 
@@ -37,7 +37,7 @@ row size, col size, and image.
 
 ---
 
-1.Query3: FLIP
+**3. Query3: FLIP**
 
 * arg3 = 0: flip horizontally
 
@@ -45,7 +45,7 @@ row size, col size, and image.
 
 ---
 
-1.Query4: COPY AND PASTE
+**4. Query4: COPY AND PASTE**
 
 Take x1, y1, c_h, c_w, x2, y2.
 
@@ -57,7 +57,7 @@ Paste the result of the copy to (x2,y2) coordinates.
 
 ---
 
-1.Query5: FILL
+**5. Query5: FILL**
 
 Take x, y, color
 

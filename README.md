@@ -19,11 +19,11 @@ row size, col size, and image.
 
 * arg1 = 0: 2X Magnification
 
-![image](https://user-images.githubusercontent.com/30820487/50946130-6ec04b00-14db-11e9-80d3-25ae6dfce8fb.png)
+<img src="https://user-images.githubusercontent.com/30820487/50946130-6ec04b00-14db-11e9-80d3-25ae6dfce8fb.png" width="40%" height="40%">
 
 *arg1 = 1: 2X Reduction
 
-![image](https://user-images.githubusercontent.com/30820487/50946174-97484500-14db-11e9-8d22-5cbd98116038.png)
+<img src="https://user-images.githubusercontent.com/30820487/50946174-97484500-14db-11e9-8d22-5cbd98116038.png" width="40%" height="40%">
 
 ---
 
@@ -53,7 +53,8 @@ Copy the vertical length (c_h) and the horizontal length (c_w) at the (x1,y1) co
 
 Paste the result of the copy to (x2,y2) coordinates.
 
-![image](https://user-images.githubusercontent.com/30820487/50946476-df1b9c00-14dc-11e9-87de-1b37a6532248.png)
+
+<img src="https://user-images.githubusercontent.com/30820487/50946476-df1b9c00-14dc-11e9-87de-1b37a6532248.png" width="60%" height="60%">
 
 ---
 
@@ -63,4 +64,4 @@ Take x, y, color
 
 Change all the pixels that are adjacent to (x,y) and same color with (x,y) coordinates into a given color.
 
-![image](https://user-images.githubusercontent.com/30820487/50946580-6f59e100-14dd-11e9-82e3-731589dd042e.png)
+<img src="https://user-images.githubusercontent.com/30820487/50946580-6f59e100-14dd-11e9-82e3-731589dd042e.png" width="60%" height="60%">
